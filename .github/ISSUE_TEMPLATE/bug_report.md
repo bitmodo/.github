@@ -19,10 +19,8 @@ A clear and concise description of what you expected to happen.
 **Actual behavior**
 A clear and concise description of what actually happened, rather than what you expected. If applicable, also include errors.
 
-**Environment (please complete the following information):**
- - OS: [e.g. Ubuntu 18.04, Windows 10, etc]
- - Compiler: [e.g. GCC, MSVC]
- - Version [e.g. 1.0.0]
+**Environment:**
+Give a detailed description of your current workspace, including all of the revelant information.
 
 **Additional context**
 Add any other context about the problem here.
