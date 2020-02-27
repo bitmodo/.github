@@ -28,6 +28,10 @@ The issue creation guide will walk you through the process of submitting a bug r
 If you create an issue which doesn't follow the templates, you will be told to refer to this guide and the issue will be closed.
 The only exception to this rule is if the issue does not fall under any of the templates, in which case you can open a blank issue.
 
+One thing to note is that we use the [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
+This defines the structure of the branches and the interactions between them.
+It can be a good thing to keep this in mind when choosing where to start making a contribution if you plan on contributing directly to the code.
+
 ### Creating a pull request
 If you want to contribute directly to the project, that's great!
 The first step of doing so is to find or create an issue (as defined in the [where to start section](#where-to-start)) that describes your idea.
